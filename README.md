@@ -9,3 +9,5 @@ O projeto pretende, a partir de uma base de dados, identificar os cancelamentos 
 6) Gerar gráficos que comparem essas causas.
 7) Identificar ações que possam reduzir o cancelamento do produto/serviço.
 8) Filtrar a tabela e comprovar que, as ações propostas reduziriam os cancelamentos do produto/serviço.
+
+OBS: Para o código apresentar os gráficos criados é necessário apagar o "#" na linha "#grafico.show()"
